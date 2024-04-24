@@ -2,13 +2,15 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ma-sayuri/previsao-do-tempo/blob/main/LICENSE) 
 
+## Acesse o projeto aqui: https://ma-sayuri.github.io/previsao-do-tempo/
+
 # Visão geral
 
 Esse foi um projeto feito durante as 4 aulas organizadas pelo DevClub, e implementado por mim.
 
 # Sobre o projeto
 
-Trata-se de um simples programa de previsão de tempo, que ao buscar pela cidade desejada, exibirá os seguintes dados meteorológicos: Temperatura em graus Celsius (°C), descrição do céu, velocidade do vento e umidade.
+Trata-se de um simples programa de previsão de tempo, que ao buscar pela cidade desejada, exibirá os seguintes dados meteorológicos: Temperatura em graus Celsius (°C), descrição do céu, umidade e velocidade do vento.
 
 # Tecnologias utilizadas
 ## Front end
