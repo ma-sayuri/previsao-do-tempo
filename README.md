@@ -2,8 +2,6 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ma-sayuri/previsao-do-tempo/blob/main/LICENSE) 
 
-## Acesse o projeto aqui: https://ma-sayuri.github.io/previsao-do-tempo/
-
 # Visão geral
 
 Esse foi um projeto feito durante as 4 aulas organizadas pelo DevClub, e implementado por mim.
@@ -34,6 +32,8 @@ Trata-se de um simples programa de previsão de tempo, que ao buscar pela cidade
 Maria Fernanda Sayuri
 
 Linkedin- https://www.linkedin.com/in/maria-fernanda-sayuri-43955a2b1
+
+## Acesse o projeto aqui: https://ma-sayuri.github.io/previsao-do-tempo/
 
 ///
 Obrigada por conferir o projeto ;)
